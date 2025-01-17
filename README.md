@@ -59,3 +59,35 @@ To replicate this analysis, follow the steps below:
 - Install the required libraries:
   ```bash
   pip install pandas matplotlib seaborn plotly
+
+  ## Visualizations
+
+### 1. Age Distribution
+![Age Distribution](Age%20Distribution.png "Age Distribution")
+
+### 2. Gender Distribution
+![Gender Distribution](Gender%20Distribution.png "Gender Distribution")
+
+### 3. Race Distribution
+![Race Distribution](Race%20Distribution.png "Race Distribution")
+
+### 4. Ethnicity Distribution
+![Ethnicity Distribution](Ethnicity%20Distribution.png "Ethnicity Distribution")
+
+### 5. Marital Status
+![Marital Status](Marital%20Status.png "Marital Status Distribution")
+
+### 6. Top 10 Diagnostics
+![Top 10 Diagnostics](Top%2010%20Diagnostics.png "Top 10 Diagnostics")
+
+### 7. Top 5 Cities by Patient Count
+![Top 5 Cities by Patient Count](Top%205%20cities%20by%20patient%20count.png "Top 5 Cities")
+
+### 8. Total Ethnicity by Class
+![Total Ethnicity by Class](total%20ethnicioty%20by%20class.png "Total Ethnicity by Class")
+
+## Encounter By Class Interactive Year Slice
+![Encounter by Class Interactive Year Slice](Encounter%20By%20Class%20Year%20Slice.png "Encounter by Class Year Slice")
+
+## Diagnostics Year Slice
+![Diagnostics Year Slice](Diagnostics%20Year%20Slice.png "Diagnostics Year Slice") 
